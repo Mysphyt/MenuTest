@@ -1,0 +1,11 @@
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\Content\Game.png
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\Content\Menu.png
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\MenuTest.exe
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\MenuTest.pdb
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\obj\x86\Debug\MenuTest.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\obj\x86\Debug\MenuTest.exe
+C:\Users\Aaron\Desktop\CS Projects\MenuTest\MenuTest\obj\x86\Debug\MenuTest.pdb
